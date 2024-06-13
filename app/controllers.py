@@ -1,4 +1,4 @@
-# app/controllers.py
+
 from .models import Category, Item
 
 class GroceryManager:
